@@ -41,14 +41,6 @@
 
 ## 🎉 **Try It Now!**
 
-
-
 ---
 
 **Built for AI developers who want reliable evaluation** ⭐
-
-[![Star History](https://img.shields.io/github/stars/YOUR_USERNAME/google-ai-autojudge-multi-agent-evaluation.svg?style=social&label=⭐&maxAge=3600)](https://github.com/YOUR_USERNAME/google-ai-autojudge-multi-agent-evaluation/stargazers/)
-
-</div>
-
-</div>
