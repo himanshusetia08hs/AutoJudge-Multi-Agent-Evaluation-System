@@ -1,4 +1,4 @@
-# 🚀 AutoJudge-Multi-Agent-Evaluation-System 🤖
+# 🚀 AutoJudge: Multi-Agent-Evaluation-System 🤖
 
 ## 🎯 **What It Does**
 
